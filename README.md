@@ -16,9 +16,7 @@
   	宽度就是它的文字或它图片的大小，不可改变。它只能容纳文本或者其他内联元素。
   	常见的内联元素：a b br em i img input lable span strong textarea
 
-写完之后在Chrome浏览器运行显示的页面：
-
-![效果图](C:\Users\sisiy\WebstormProjects\BaiduSearch\final.png)
+写完之后在Chrome浏览器运行显示的页面如同final.png.
 
 
 
